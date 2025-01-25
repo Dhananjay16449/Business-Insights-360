@@ -6,7 +6,7 @@ This project was developed as part of the Power BI course at Codebasics and aims
 
 ## Project Links
 
-- **Live Dashboard :**
+- **Live Dashboard :**[Link Text](https://app.powerbi.com/view?r=eyJrIjoiMmJkOTRjNjEtN2M2Ny00MDQxLWEyMTQtYzM0MjI1NmExNzQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - **Dashboard Snapshots :**
 
 ## Problem Statement
