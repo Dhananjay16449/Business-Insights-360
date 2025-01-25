@@ -1,18 +1,20 @@
 # Business-Insights-360
 
-**Project Overview**
+## Project Overview
+
 This project was developed as part of the Power BI course at Codebasics and aims to provide a comprehensive, integrated business intelligence solution for AtliQ, a rapidly growing global company. AtliQ faced significant challenges in managing and analyzing its operational data due to the reliance on Excel spreadsheets for data analytics. The project involved transitioning their data analysis capabilities to Power BI, enabling real-time, actionable insights across multiple business domains to drive data-driven decision-making.
 
-This repository contains the Power BI reports, MySQL database schema, and the overall technical framework that was created to help AtliQ move from inefficient Excel-based analytics to a dynamic, real-time Power BI dashboard.
+## Problem Statement
 
-Problem Statement
 AtliQ, a business with operations expanding across multiple countries, was struggling with the increasing complexity of its operations. Despite their rapid growth, the company was relying heavily on Excel for data analysis, which was time-consuming, error-prone, and lacked scalability. This caused inefficiencies in decision-making and led to significant financial losses, particularly in their Latin American market, due to the inability to extract meaningful insights from their data in real time.
 
-Objective
+## Objective
+
 The primary objective of this project was to transition AtliQ from its outdated Excel-based data analysis process to a more efficient and scalable solution: Power BI. The goal was to develop an interactive, dynamic, and integrated Power BI dashboard capable of providing real-time insights, improving operational efficiency, and empowering decision-makers at all levels of the business with actionable data.
 
-Key Features & Business Functions
-1. Finance View
+## Key Features & Business Functions
+
+- Finance View
 Displays Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period.
 Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
 2. Sales View
