@@ -23,20 +23,35 @@ The primary objective of this project was to transition AtliQ from its outdated 
 Displays Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period.
 Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
 
+![Alt text](URL)
+
+
 - **Sales View :**
 Offers a detailed performance analysis based on key metrics such as Net Sales, Gross Margin, and Profitability.
 Provides a Growth Matrix for assessing sales performance and profitability of individual customers, products, and regions.
+
+![Alt text](URL)
+
 
 - **Marketing View :**
 Evaluates the performance of products in the market, focusing on metrics like Net Sales and Gross Margin.
 Visualizes the profitability and growth potential of products through an interactive matrix, helping prioritize marketing efforts.
 
+![Alt text](URL)
+
+
 - **Supply Chain View :**
 Tracks key metrics such as Forecast Accuracy, Net Error, and Risk Profiles for different segments, categories, and customers.
 Assists in identifying areas of improvement for supply chain optimization and risk management.
 
+![Alt text](URL)
+
+
 - **Executive View :**
 A high-level, consolidated dashboard that presents key insights across all business areas, providing executives with a comprehensive overview of performance and operational health.
+
+![Alt text](URL)
+
 
 ## Project Implementation
 
